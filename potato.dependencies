@@ -5,6 +5,6 @@
   },
   {
     "repository": "vendor_oneplus_cheeseburger",
-    "target_path": "vendor/oneplus"
+    "target_path": "vendor/oneplus/cheeseburger"
   }
 ]
